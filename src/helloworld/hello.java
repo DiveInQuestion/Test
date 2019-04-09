@@ -6,5 +6,6 @@ public class hello {
 		System.out.println("My Dear");
 		System.out.println("Another one update");
 		System.out.println("new");
+		System.out.println("newsentence");
 	}
 }
